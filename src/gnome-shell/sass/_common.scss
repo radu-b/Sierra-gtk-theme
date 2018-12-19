@@ -899,7 +899,7 @@ $slider_color: if($variant == 'light', $accent_color, white);
   /* transition from solid to transparent */
   transition-duration: 250ms;
   font-weight: bold;
-  height: $menuitem_size;
+  height: 40px;
   box-shadow: $shadow_6;
 
   &:overview,
